@@ -6,4 +6,4 @@
 6. click Advanced (next to change icon), ensure Run as Administrator is checked and click OK.
 7. click Apply.
 8. click OK.
-9. enjoy you desktop shortcut to start/load WinUtil
+9. enjoy your desktop shortcut to start/load WinUtil
