@@ -1,4 +1,4 @@
-1. move to, and unzip in designated path/directory for storage.
+1. move to, and unzip in designated path/directory for storage. [Example: C:\ProgramData\WinUtilSC]
 2. drag Winutil.ink to desktop.
 3. right click on WinUtil.ink> properties> Change icon> Browse...>
 4. enter designated path/directory for storage. [Example: C:\ProgramData\WinUtilSC]
