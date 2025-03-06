@@ -1,5 +1,5 @@
 1. move to, and unzip in designated path/directory for storage. [Example: C:\ProgramData]
-2. drag Winutil.ink to desktop.
+2. drag Winutil.ink to desktop, or pin to the task bar.
 3. right click on WinUtil.ink> properties> Change icon> Browse...>
 4. enter designated path/directory for storage. [Example: C:\ProgramData\WinUtilDesktopShortCut-main]
 5. you should see ChrisTitus.ico, select and click open to set icon. then OK
